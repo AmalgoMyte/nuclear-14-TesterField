@@ -462,3 +462,10 @@ Entries:
   id: 45
   time: '2026-02-14T11:08:43.0000000+00:00'
   url: https://github.com/Vault-Overseers/nuclear-14/pull/1011
+- author: Parky
+  changes:
+    - type: Remove
+      message: toggled spacewind to false
+  id: 46
+  time: '2026-02-17T05:14:18.0000000+00:00'
+  url: https://github.com/Vault-Overseers/nuclear-14/pull/1013
